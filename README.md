@@ -11,14 +11,14 @@ Continental breakfast provided. Name badges mandatory (first name basis strictly
 
 ---
 
-**10:00 – 10:15 | OPENING KEYNOTE**
+**10:00 – 10:10 | OPENING KEYNOTE**
 *"Why I Gathered You Here Today"*
 Speaker: The Organiser
 Brief remarks on how "playing with AI for a game design document" spiralled into whatever this is.
 
 ---
 
-**10:15 – 11:00 | PANEL DISCUSSION: THE CHATGPT CONFESSION SESSION**
+**10:10 – 10:40 | PANEL DISCUSSION: THE CHATGPT CONFESSION SESSION**
 *"What Have You Actually Been Using It For?"*
 
 Each family member confesses their ChatGPT usage. No judgement. Okay, some judgement.
@@ -31,12 +31,12 @@ Suggested topics:
 
 ---
 
-**11:00 – 11:20 | COFFEE BREAK & CORRIDOR GOSSIP**
+**10:40 – 11:00 | COFFEE BREAK & CORRIDOR GOSSIP**
 Biscuits will be served. Complaints about the previous session encouraged.
 
 ---
 
-**11:20 – 12:30 | HANDS-ON WORKSHOP: INTRODUCTION TO CLAUDE**
+**11:00 – 11:45 | HANDS-ON WORKSHOP: INTRODUCTION TO CLAUDE**
 *"The Other One (That's Actually Better)"*
 
 Interactive session covering:
@@ -50,16 +50,16 @@ Interactive session covering:
 
 ---
 
-**12:30 – 13:30 | LUNCH BREAK**
-Catering TBC (probably leftovers from New Year's Eve).
-Informal networking. Napping permitted.
+**11:45 – 13:30 | LUNCH BREAK & MASS**
+Those attending noon Mass depart at 11:45. Remaining attendees enjoy an extended lunch.
+Catering TBC (probably leftovers from New Year's Eve). Napping permitted.
 
 ---
 
 **13:30 – 14:30 | DOCUMENTARY SCREENING**
-*"The Thinking Game"* (Anthropic, 2024)
+*"The Thinking Game"* (DeepMind, 2024)
 
-A surprisingly moving 30-minute film about teaching an AI to reason. Tissues optional but recommended.
+A surprisingly moving film about teaching an AI to reason. Tissues optional but recommended.
 
 Post-screening discussion: "Wait, is this... actually quite profound?"
 
@@ -82,8 +82,10 @@ Certificate of attendance distributed (printed on A4, obviously).
 
 ---
 
-**15:15 onwards | NETWORKING RECEPTION**
-Tea, cake, and existential conversations about the future of work.
+**15:15 onwards | FIRESIDE CHAT**
+*"What Does This Mean For Us?"*
+
+Gather around the wood burning stove for tea, cake, and existential conversations about the future of work. Informal reflections on AI, family, and whether Mum will actually use any of this.
 
 ---
 
