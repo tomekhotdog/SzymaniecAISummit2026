@@ -1,13 +1,13 @@
 # 🏔️ The Szymaniec Family AI Summit 2026
 ## *"From Prompts to Possibilities"*
-### January 1st | Location: The Family Living Room
+### January 1st | Location: Dining table, 3 Hampshire Rise, Bracknell, RG42 3JW, UK
 
 ---
 
 ## OFFICIAL PROGRAMME
 
 **09:30 – 10:00 | REGISTRATION & NETWORKING**
-Continental breakfast provided. Name badges mandatory (first name basis strictly prohibited – full titles required: "Dr. Dad", "Ola Esq.", "Michal, CPA", etc.)
+Continental breakfast provided. Name badges mandatory (first name basis strictly prohibited – full titles required: "Dr. Dad", "Ola Esq.", "Michal, CPA", "Maria, Strategy Consultant", etc.)
 
 ---
 
@@ -28,6 +28,7 @@ Suggested topics:
 - Michal: "Summarising HMRC guidance no human should have to read"
 - Ola: "Drafting emails that sound less annoyed than I actually am"
 - Mum: "I asked it for a recipe once and then got suspicious"
+- Maria: "I use it for everything and I'm not ashamed" (the power user)
 
 ---
 
@@ -39,14 +40,11 @@ Biscuits will be served. Complaints about the previous session encouraged.
 **11:00 – 11:45 | HANDS-ON WORKSHOP: INTRODUCTION TO CLAUDE**
 *"The Other One (That's Actually Better)"*
 
-Interactive session covering:
+Collaborative session where we tackle a single example project together as a group.
+
 - Why Claude feels different (spoiler: it thinks before it speaks)
-- Live demonstration: Building something useful in 30 minutes
-- Personalised use cases:
-  - For the Physicist: "Complex reasoning without hallucinating equations"
-  - For the Solicitor: "Document analysis that doesn't make things up"
-  - For the Accountant: "Spreadsheet logic, explained like you're explaining it to a client"
-  - For the Retiree: "Finally, a computer that listens properly"
+- Live demonstration: Building something useful as a team
+- Everyone contributes ideas while the Organiser drives
 
 ---
 
@@ -68,10 +66,11 @@ Post-screening discussion: "Wait, is this... actually quite profound?"
 **14:30 – 15:00 | WORKSHOP PART II: YOUR TURN**
 *"Bring Your Own Problem"*
 
-Each attendee brings a real task from their life/work. We solve it together with Claude.
+Now it's personal. Each attendee brings a real task from their life/work. We solve it together with Claude.
 - Bonus points for most obscure physics question (Dad)
 - Bonus points for most Byzantine legal scenario (Ola)
 - Bonus points for "can it do my VAT return" (Michal)
+- Bonus points for most ambitious strategy framework (Maria)
 
 ---
 
