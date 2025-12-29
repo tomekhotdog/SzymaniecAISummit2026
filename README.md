@@ -1,4 +1,4 @@
-# 🏔️ The Szymaniec Family AI Summit 2025
+# 🏔️ The Szymaniec Family AI Summit 2026
 ## *"From Prompts to Possibilities"*
 ### January 1st | Location: The Family Living Room
 
