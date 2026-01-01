@@ -63,7 +63,7 @@ Post-screening discussion: "Wait, is this... actually quite profound?"
 
 ---
 
-**14:30 – 15:00 | WORKSHOP PART II: YOUR TURN**
+**14:30 – 15:15 | WORKSHOP PART II: YOUR TURN**
 *"Bring Your Own Problem"*
 
 Now it's personal. Each attendee brings a real task from their life/work. We solve it together with Claude.
@@ -74,14 +74,14 @@ Now it's personal. Each attendee brings a real task from their life/work. We sol
 
 ---
 
-**15:00 – 15:15 | CLOSING REMARKS & KEY TAKEAWAYS**
+**15:15 – 15:30 | CLOSING REMARKS & KEY TAKEAWAYS**
 *"What We Learned and What We're Slightly Worried About"*
 
 Certificate of attendance distributed (printed on A4, obviously).
 
 ---
 
-**15:15 onwards | FIRESIDE CHAT**
+**15:30 onwards | FIRESIDE CHAT**
 *"What Does This Mean For Us?"*
 
 Gather around the wood burning stove for tea, cake, and existential conversations about the future of work. Informal reflections on AI, family, and whether Mum will actually use any of this.
